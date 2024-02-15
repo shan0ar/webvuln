@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /logs/
+
+flag : S2V{3ASY_FAIL}
